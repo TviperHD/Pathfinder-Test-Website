@@ -1,0 +1,76 @@
+body{
+  margin: 0;
+  font-family: Helvetica, Arial, sans-serif;
+  line-height: 20px;
+}
+header{
+  background-image: url(https://media.contentapi.ea.com/content/dam/apex-legends/common/apex-section-bg-red-grit-texture-xl.jpg.adapt.crop191x100.628p.jpg);
+  text-align: center;
+  padding-bottom: 25px;
+  background-size: cover;
+}
+span{
+  font-size: 20px;
+}
+header h1{
+  color: white;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 50px;
+}
+header img{
+  max-width: 250px;
+  width: 1000;
+}
+h1, h2{
+  font-family: 'Muli', sans-serif;
+}
+main{
+  text-align: center;
+  margin: 0 auto;;
+  padding: 20px;
+}
+main img{
+  max-width: 100%;
+}
+h2{
+  font-size: 32px;
+  text-align: center;
+}
+.lowertxt{
+  margin-top: 0;
+  text-align: left;
+  font-size: 15px;
+  color: grey;
+}
+p{
+  font-size: 20px;
+}
+a:hover{
+  color: blue;
+}
+footer{
+  background-image: url(https://media.contentapi.ea.com/content/dam/apex-legends/common/apex-section-bg-red-grit-texture-xl.jpg.adapt.crop191x100.628p.jpg);
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  background-size: cover;
+}
+.small{
+  width: 200px;
+  vertical-align: middle;
+}
+.characters, .about, .abilities{
+  border: 10px solid;
+  background-color: red;
+  text-align: left;
+  border-radius: 15px;
+  margin: auto;
+  max-width: 40%;
+  padding-left: 50px;
+  padding-bottom: 20px;
+  padding-right: 50px;
+  padding-top: 20px
+}
+.center{
+  width: 1000px;
+}
